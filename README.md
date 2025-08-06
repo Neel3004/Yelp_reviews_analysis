@@ -10,19 +10,24 @@ The goal was to process and analyze a large dataset (7M+ user reviews file with 
 
 I have also mentioned a few findings that I learned from this project. This simulates how a data analyst works in real life.
 
-1) What business categories have the most listings on Yelp?
+**1) What business categories have the most listings on Yelp?**
+
 Helps identify high-competition markets and popular business verticals (e.g., restaurants and salons).
 
-2) Which users review the most distinct restaurants?
+**2) Which users review the most distinct restaurants?**
+
 Identifies highly active and engaged reviewers in the "Restaurants" category, which can be useful for loyalty programs or influencer outreach.
 
-3) Which business categories receive the most reviews overall?
+**3) Which business categories receive the most reviews overall?**
+
 Shows which categories drive the most user engagement.
 
-4) Which cities have the most popular businesses, and which are the top ones in each?
+**4) Which cities have the most popular businesses, and which are the top ones in each?**
+
 Reveals popular local business and regional engagement trends, which can be helpful during location-based marketing strategies.
 
-5) Which businesses receive the most positive reviews?
+**5) Which businesses receive the most positive reviews?**
+
 Displays high-performing businesses based on sentiment, not just star ratings, which is very valuable when we feature top-rated companies.
 
 
