@@ -1,7 +1,9 @@
 # Yelp_reviews_analysis
 In this project, I built an end-to-end data analysis workflow using Python, Amazon S3, and Snowflake to simulate the role of a data analyst working at Yelp.
 
-The goal was to process and analyze a large dataset (7M+ user reviews file with a size greater than 5 GB) to uncover actionable business insights by mapping user sentiments to specific businesses. The process includes the following steps:
+The goal was to process and analyze a large dataset (7M+ user reviews file with a size greater than 5 GB) to uncover actionable business insights by mapping user sentiments to specific businesses. The dataset is available at: https://business.yelp.com/data/resources/open-dataset/
+
+The process includes the following steps:
 
 1) Partitioning and uploading large review datasets to Amazon S3.
 2) Loading and merging data into Snowflake tables.
